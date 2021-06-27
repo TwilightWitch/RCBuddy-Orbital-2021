@@ -62,6 +62,6 @@ Our Telegram Bot includes four main features:
 - Information about official RC chat groups
 
 Accessing the bot
-Telegram bot username: @RCBuddy1_bot
-Web App: https://nusrcbuddy.appgyverapp.com/
-Introduction Website: https://nus-rcbuddy.weebly.com/
+- Telegram bot username: @RCBuddy1_bot
+- Web App: https://nusrcbuddy.appgyverapp.com/
+- Introduction Website: https://nus-rcbuddy.weebly.com/
