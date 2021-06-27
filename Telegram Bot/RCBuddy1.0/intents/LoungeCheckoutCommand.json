@@ -1,0 +1,75 @@
+{
+  "id": "b9aca648-d21a-47a8-995a-eb98ac54974f",
+  "name": "LoungeCheckoutCommand",
+  "auto": true,
+  "contexts": [
+    "Cinnamon4thNotFree"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Cinnamon4thFree",
+          "lifespan": 5
+        },
+        {
+          "name": "CheckLoungeCommand-Cinnamon",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3526801a-b32b-434c-8bdc-a5138c405db2",
+          "name": "star",
+          "required": false,
+          "dataType": "@star",
+          "value": "$star",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "535d5ebc-b941-408f-adcd-7840ca2949c3",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You\u0027ve been checked out of the fourth floor lounge! Thanks for remembering to check out!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

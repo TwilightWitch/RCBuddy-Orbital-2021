@@ -1,0 +1,64 @@
+{
+  "id": "6ad929c7-5604-4adf-911f-f6fb8a342d60",
+  "parentId": "a0e2ad8b-f5e8-4f6b-8f6a-ed5582290ae9",
+  "rootParentId": "a0e2ad8b-f5e8-4f6b-8f6a-ed5582290ae9",
+  "name": "CheckLoungeCommand - Cinnamon - 4thFree - no",
+  "auto": true,
+  "contexts": [
+    "CheckLoungeCommand-Cinnamon",
+    "Cinnamon4thFree",
+    "CheckLoungeCommand-Cinnamon-4thFree-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckLoungeCommand-Cinnamon-4thFree.CheckLoungeCommand-Cinnamon-4thFree-no",
+      "affectedContexts": [
+        {
+          "name": "CheckLoungeCommand-Cinnamon",
+          "lifespan": 5
+        },
+        {
+          "name": "Cinnamon4thFree",
+          "lifespan": 50
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "To look for another lounge, use the /checklounge button.",
+          "replies": [
+            "/checklounge"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, would you like to check another lounge? By the way, the 5th floor\u0027s lounge is free."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

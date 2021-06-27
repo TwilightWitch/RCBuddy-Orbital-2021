@@ -1,0 +1,38 @@
+{
+  "id": "c6c2d6fc-e117-4b2a-b68e-a6422b034c64",
+  "parentId": "60dfd94b-4c07-4f2c-b94e-84496bc3eff6",
+  "rootParentId": "60dfd94b-4c07-4f2c-b94e-84496bc3eff6",
+  "name": "MenuCommand - fallback",
+  "contexts": [
+    "MenuCommand-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MenuCommand.MenuCommand-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, I won\u0027t show the specific menus. Do you need my help for anything else?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "a08bf08f-e8e0-442f-8197-9ab1689d2273",
+  "parentId": "a0e2ad8b-f5e8-4f6b-8f6a-ed5582290ae9",
+  "rootParentId": "a0e2ad8b-f5e8-4f6b-8f6a-ed5582290ae9",
+  "name": "CheckLoungeCommand - Cinnamon - 4thFree - yes",
+  "auto": true,
+  "contexts": [
+    "CheckLoungeCommand-Cinnamon",
+    "Cinnamon4thFree",
+    "CheckLoungeCommand-Cinnamon-4thFree-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckLoungeCommand-Cinnamon-4thFree.CheckLoungeCommand-Cinnamon-4thFree-yes",
+      "affectedContexts": [
+        {
+          "name": "Cinnamon4thNotFree",
+          "lifespan": 5
+        },
+        {
+          "name": "CheckLoungeCommand-Cinnamon",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Please let me know when you leave the lounge by using /loungecheckout so other people will know when it\u0027s free to use!",
+          "replies": [
+            "/loungecheckout"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright, I\u0027ve marked the 4th floor lounge as taken for the next 5 hours. If you\u0027re still using the lounge then, please use the /extendloungebooking command to continue your reservation."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

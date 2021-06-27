@@ -1,0 +1,156 @@
+{
+  "id": "6de2cc01-d957-4397-b7ca-220a350faad3",
+  "name": "FoodCommand",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1b053194-9e09-43d1-8d06-4e5f86bfab81",
+          "name": "song",
+          "required": false,
+          "dataType": "@song",
+          "value": "$song",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://ucarecdn.com/53bbd62b-e688-4857-964c-5a777d72e3d3/-/crop/1332x555/0,505/-/format/auto/-/resize/2048x/",
+          "subtitle": "Italian food in UTown",
+          "title": "Sapore Italian Restaurant",
+          "buttons": [
+            {
+              "postback": "https://order.sapore.com.sg/",
+              "text": "Menu"
+            },
+            {
+              "postback": "https://sapore.com.sg/reservations/",
+              "text": "Website"
+            },
+            {
+              "postback": "https://www.google.com/maps/place/Sapore+Italian+Restaurant/@1.3050228,103.7779337,15.41z/data\u003d!4m5!3m4!1s0x0:0xf8fb5e3cd94b8eb4!8m2!3d1.3042726!4d103.7738973",
+              "text": "Google Maps"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://burpple-1.imgix.net/foods/358059663733462820e1733391_original.?w\u003d420\u0026dpr\u003d1\u0026fit\u003dcrop\u0026q\u003d80\u0026auto\u003dformat",
+          "subtitle": "Korean food in UTown",
+          "title": "Hwang\u0027s",
+          "buttons": [
+            {
+              "text": "Website"
+            },
+            {
+              "text": "https://www.facebook.com/hwangskoreanrestaurant/"
+            },
+            {
+              "postback": "https://www.google.com/maps/place/Hwang\u0027s/@1.3040592,103.7741032,15z/data\u003d!4m5!3m4!1s0x0:0x435168094685c522!8m2!3d1.3040592!4d103.7741032",
+              "text": "Google Maps"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0261/6714/8624/products/W1OriginalWagyuBeef_540x.png?v\u003d1606058498",
+          "subtitle": "Wagyu beef bowls in UTown",
+          "title": "Waa Cow! NUS UTown",
+          "buttons": [
+            {
+              "postback": "https://www.waacow.sg/",
+              "text": "Website"
+            },
+            {
+              "postback": "https://www.google.com/maps/place/Waa+Cow!+NUS+U+Town/@1.3047299,103.7725536,15z/data\u003d!4m5!3m4!1s0x0:0x1daed4a590fe216c!8m2!3d1.3047299!4d103.7725536",
+              "text": "Google Maps"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/05/Fine-Food-1-1024x684.jpg",
+          "subtitle": "Food court in UTown",
+          "title": "Fine Food",
+          "buttons": [
+            {
+              "text": "Order Online"
+            },
+            {
+              "text": "https://www.whyq.sg/nus-fine-food"
+            },
+            {
+              "postback": "https://www.google.com/maps/place/Fine+Food/@1.3039238,103.7735819,15z/data\u003d!4m2!3m1!1s0x0:0xe0a05e09b632c4a0?sa\u003dX\u0026ved\u003d2ahUKEwiPytCem-zwAhXvzDgGHcyuDhMQ_BIwEnoECDsQBQ",
+              "text": "Google Maps"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/05/Flavours-Edited-1024x684.jpg",
+          "subtitle": "Food court in UTown",
+          "title": "Flavours@UTown",
+          "buttons": [
+            {
+              "text": "Google Maps"
+            },
+            {
+              "text": "https://www.google.com/maps/place/Foodclique/@1.3047189,103.7727249,15z/data\u003d!4m5!3m4!1s0x0:0x7b392d9d676befeb!8m2!3d1.3047189!4d103.7727249"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "76c9ce53-e298-41c8-9e21-547f8a52e503",
+  "name": "TelegroupsCommand",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here\u0027s what I like to use on Telegram (alphabetical order):\n\n@nusTempRemind_bot - Hourly reminders for temperature taking.\n@GmailBot - With this bot you can get new emails and reply to them without leaving Telegram.\n@QuizariumBot - Quizarium is a fast paced addictive trivia-like game to play with your friends!\nhttps://t.me/cinnaspaces - USC Spaces Channel to report issues regarding common areas within Cinnamon College under USC\nhttps://t.me/Govsg - Subscribe to receive important Government announcements and updates.\nhttps://t.me/nus_sg - Unofficial NUS supergroup for anyone related to NUS.\nhttps://t.me/NUS_temp - Bi-daily temperature taking reminders.\nhttps://t.me/nuscomputingclub - Official Telegram channel for NUS Students\u0027 Computing Club.\nhttps://t.me/nushappenings - NUSSU\u0027s Official Telegram channel.\nhttps://t.me/nusnews - NUS News updates at your fingertips.\nhttps://t.me/TheStraitsTimes - Stay in the know with the latest news from Singapore and around the world.\nhttps://t.me/uscaffeinated - USCaffeinated, an interest group for all things caffeinated!\nhttps://t.me/USPChannel - Official Telegram channel for the University Scholars Club.\nhttps://t.me/USProvisions - USProvisions channel for snack restock updates.\nhttps://t.me/uspurge - USPurge Online, a group for buying and selling preloved goods.\n\n(Okay, I\u0027m a bot so I can\u0027t actually use them, but I\u0027ve heard that they\u0027re useful from those who do!)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

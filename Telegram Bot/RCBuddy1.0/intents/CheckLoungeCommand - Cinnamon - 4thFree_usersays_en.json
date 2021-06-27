@@ -1,0 +1,212 @@
+[
+  {
+    "id": "c8b9674b-fbb3-41b0-9dee-14f7a8b20c9f",
+    "data": [
+      {
+        "text": "level ",
+        "userDefined": false
+      },
+      {
+        "text": "four",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a638ca2-4292-4617-80ce-76e3136d1b49",
+    "data": [
+      {
+        "text": "level ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1477686-8d79-45eb-a14a-ee1d84abd172",
+    "data": [
+      {
+        "text": "Is the lounge on level ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": false
+      },
+      {
+        "text": " of Cinnamon College ",
+        "userDefined": false
+      },
+      {
+        "text": "free",
+        "meta": "@map-sort",
+        "alias": "map-sort",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e61ceb82-099d-4a39-a5c3-1bd83310403b",
+    "data": [
+      {
+        "text": "fourth",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " floor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "291f05fe-e1cf-42ad-94be-0846aca88c36",
+    "data": [
+      {
+        "text": "four",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6c39549-d090-4626-8a9e-187566bbb29e",
+    "data": [
+      {
+        "text": "fourth",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c05ca02-7551-4b38-99b8-797601b72817",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5ecf36a-1d69-4493-a17c-2517ffba10aa",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": false
+      },
+      {
+        "text": "th floor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa7a1c01-5bab-433e-a511-51afdf6e2c60",
+    "data": [
+      {
+        "text": "Is the lounge on the ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": false
+      },
+      {
+        "text": "th floor ",
+        "userDefined": false
+      },
+      {
+        "text": "free",
+        "meta": "@map-sort",
+        "alias": "map-sort",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d817b56b-626e-4494-a363-885377bd6345",
+    "data": [
+      {
+        "text": "Is the fourth floor lounge ",
+        "userDefined": false
+      },
+      {
+        "text": "free",
+        "meta": "@map-sort",
+        "alias": "map-sort",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

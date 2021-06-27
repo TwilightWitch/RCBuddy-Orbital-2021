@@ -1,0 +1,73 @@
+{
+  "id": "95791f2b-17b4-4dae-a429-5806b637944c",
+  "parentId": "4f782a06-3660-4d2d-902b-7684e1f4c4e5",
+  "rootParentId": "4f782a06-3660-4d2d-902b-7684e1f4c4e5",
+  "name": "CheckLoungeCommand - Cinnamon",
+  "auto": true,
+  "contexts": [
+    "CheckLoungeCommand-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckLoungeCommand.CheckLoungeCommand-custom",
+      "affectedContexts": [
+        {
+          "name": "CheckLoungeCommand-Cinnamon",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f77a2912-b8d4-4b56-a0f4-339fc85d1099",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Which floor would you like to check?",
+          "replies": [
+            "4"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, you\u0027re checking the lounges in Cinnamon College."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

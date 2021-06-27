@@ -1,0 +1,153 @@
+{
+  "id": "f1717abf-eb35-49ce-a74d-cc6b7f09f310",
+  "name": "Week2Menu",
+  "auto": true,
+  "contexts": [
+    "MenuCommand-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "MenuCommand-yes-followup-Week2",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "afda8126-3991-4d15-9c2b-54601ed58e4d",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b46bad57-4d90-45be-ac5b-e7b06931befd",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "You requested for week 2\u0027s menu!",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, here are the menus for week 2."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://drive.google.com/file/d/1m7iVmqatrfG1_JBw5QTGeyoCqcSaSjsa/view?usp\u003dsharing",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://drive.google.com/file/d/1sewv880rk38wUxb3qmDDyEBXPC-5_2Xj/view?usp\u003dsharing",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://drive.google.com/file/d/10l8Fjzfa0_1kLEfetYNd2wZtDjmMQX7h/view?usp\u003dsharing",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://drive.google.com/file/d/1tIXrSUgQjK4BkL4IXraEX4cJj4eCvA6n/view?usp\u003dsharing",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://drive.google.com/file/d/1NhoJiHKGu9a4oKS1CWFCngr0QrmVAGZU/view?usp\u003dsharing",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://drive.google.com/file/d/13UHjEE1uZUSrY96CuoQ0dNLi7mLzSBb-/view?usp\u003dsharing",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://drive.google.com/file/d/1xYnSbR8H12oqAozYizcuFd9a2jvv_6oH/view?usp\u003dsharing",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

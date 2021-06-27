@@ -1,0 +1,63 @@
+{
+  "id": "e6fec7d0-46fb-4138-af01-290f2d5b8d29",
+  "name": "RandomTelegroupCommand",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Use the quick reply button for another recommendation!",
+          "replies": [
+            "/randomtelegroup"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "https://t.me/nus_sg - Unofficial NUS supergroup for anyone related to NUS.",
+            "https://t.me/nushappenings - NUSSU\u0027s Official Telegram channel.",
+            "https://t.me/USPChannel - Official Telegram channel for the University Scholars Club.",
+            "https://t.me/uspurge - USPurge Online, a group for buying and selling preloved goods.",
+            "https://t.me/uscaffeinated - USCaffeinated, an interest group for all things caffeinated!",
+            "https://t.me/cinnaspaces - USC Spaces Channel to report issues regarding common areas within Cinnamon College under USC",
+            "https://t.me/nuscomputingclub - Official Telegram channel for NUS Students\u0027 Computing Club.",
+            "https://t.me/USProvisions - USProvisions channel for snack restock updates.",
+            "@nusTempRemind_bot - Hourly reminders for temperature taking.",
+            "https://t.me/NUS_temp - Bi-daily temperature taking reminders.",
+            "https://t.me/nusnews - NUS News updates at your fingertips.",
+            "https://t.me/TheStraitsTimes - Stay in the know with the latest news from Singapore and around the world.",
+            "https://t.me/Govsg - Subscribe to receive important Government announcements and updates.",
+            "@GmailBot - With this bot you can get new emails and reply to them without leaving Telegram.",
+            "@QuizariumBot - Quizarium is a fast paced addictive trivia-like game to play with your friends!"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

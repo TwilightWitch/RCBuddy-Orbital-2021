@@ -1,0 +1,1624 @@
+[
+  {
+    "id": "c1929988-6871-41bc-8733-2978e0aa3d53",
+    "data": [
+      {
+        "text": "remove the reminder about ",
+        "userDefined": false
+      },
+      {
+        "text": "my yoga classes",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2db7c61e-c360-402e-84f2-be3d3d9af299",
+    "data": [
+      {
+        "text": "remove reminder planned for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "929d189d-f0c2-4840-81d6-0484afbe3171",
+    "data": [
+      {
+        "text": "erase a reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "going to the store",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43625d67-1e3c-4b69-91d9-bcf9d33f2640",
+    "data": [
+      {
+        "text": "erase ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fd54b5e-f48e-4425-9c3d-ccfa30268e0c",
+    "data": [
+      {
+        "text": "forget ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdcd0d5a-6e7d-4cb3-9bf3-bfa353323b5b",
+    "data": [
+      {
+        "text": "erase my reminders please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3eba3d1b-366f-4516-8db7-43b723fb2de8",
+    "data": [
+      {
+        "text": "reminders off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "573c60d5-80ae-44dc-893f-126e21b61e15",
+    "data": [
+      {
+        "text": "cancel reminder ",
+        "userDefined": false
+      },
+      {
+        "text": "milk",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad7fe650-db88-455e-9bae-ae32feafd963",
+    "data": [
+      {
+        "text": "I want to delete reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9abebab-30d0-4ab2-aaea-6bf57883309a",
+    "data": [
+      {
+        "text": "can you delete my reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32faa2e8-aa95-4d47-83b3-1785423bcd86",
+    "data": [
+      {
+        "text": "cancel ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " reminders for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25ad9116-6ae6-432c-aab5-a4c3c87b1af7",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " reminders for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0246bfe-91aa-42e2-8aec-00ba1e1d176b",
+    "data": [
+      {
+        "text": "remove reminder ",
+        "userDefined": false
+      },
+      {
+        "text": "yoga",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0de5adf3-8b21-436d-a65e-d293e51f14f1",
+    "data": [
+      {
+        "text": "cancel the reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0245e9a7-a1e9-4e40-a6d7-94d553051baf",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c634d5e-3f0f-418f-b8fd-befabab807bd",
+    "data": [
+      {
+        "text": "stop reminding me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85039ffd-9917-4dd7-bc66-f4fbd4f0adae",
+    "data": [
+      {
+        "text": "get",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " rid of ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " my reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10910be3-c363-47f1-8812-67340fe16f11",
+    "data": [
+      {
+        "text": "delete the ",
+        "userDefined": false
+      },
+      {
+        "text": "last",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24d2facf-8aeb-4cc9-be9b-2a13e60fd242",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "the whole list",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00837c19-ff9e-45f6-9eb9-8d458bdb5e7c",
+    "data": [
+      {
+        "text": "remove my ",
+        "userDefined": false
+      },
+      {
+        "text": "weekly",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e52ba7b-f20c-4c6e-a7a4-0d1d23fcb798",
+    "data": [
+      {
+        "text": "delete the reminder about ",
+        "userDefined": false
+      },
+      {
+        "text": "jogging",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a1b575f-1e98-4df9-b8ed-c93e7783ce51",
+    "data": [
+      {
+        "text": "get",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " rid ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " my reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75b85d1a-87b7-4d83-8a98-b73268b8da00",
+    "data": [
+      {
+        "text": "remove reminders for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd47883c-61b3-4812-8d7f-baa39e46b3c4",
+    "data": [
+      {
+        "text": "please erase ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f968d8f-1465-444d-b594-243ff105b0af",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " reminders for ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cef645c-b61d-41fb-977b-72187ccda949",
+    "data": [
+      {
+        "text": "do not remind me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46b81508-ea47-472f-996c-0d24ee394fb2",
+    "data": [
+      {
+        "text": "dismiss ",
+        "userDefined": false
+      },
+      {
+        "text": "airport pick up",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74a874ea-ec8a-4fb5-a75d-629ee66d7999",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " reminders for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "febb0469-d845-408c-a81c-2fcc0efabc94",
+    "data": [
+      {
+        "text": "cancel this reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2ddf94c-46b6-40ff-ad5f-837ce4536704",
+    "data": [
+      {
+        "text": "remove reminder titled ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77e32be9-9ad1-4300-af61-bbb4f0a648d9",
+    "data": [
+      {
+        "text": "reminder delete",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "289e5f70-cded-49d2-b5e0-1005b6f87885",
+    "data": [
+      {
+        "text": "cancel reminders for ",
+        "userDefined": false
+      },
+      {
+        "text": "8 am",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e82b8ab8-3446-4aa0-8bf0-5738c4b63a4c",
+    "data": [
+      {
+        "text": "please cancel the reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1c32f39-0ab2-4a0a-9e0b-ae0e36dd5749",
+    "data": [
+      {
+        "text": "move reminder about ",
+        "userDefined": false
+      },
+      {
+        "text": "fitness",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " to trash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c729959-48d9-4ae1-b02d-59116ae179a7",
+    "data": [
+      {
+        "text": "erase scheduled reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ce1f45e-87a9-4251-a645-d71b0a4382a6",
+    "data": [
+      {
+        "text": "stop",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " reminding me about ",
+        "userDefined": false
+      },
+      {
+        "text": "jogging",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51c01b0f-c567-4eba-ada6-d6e016e4d7ea",
+    "data": [
+      {
+        "text": "erase reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "walking with my dog",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24abc423-5eb0-4157-a357-e6c34f750d7f",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d466f71-10e3-43d9-8fdb-24f8daaadb35",
+    "data": [
+      {
+        "text": "remove reminders scheduled for when I come ",
+        "userDefined": false
+      },
+      {
+        "text": "home",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3e0a84f-f30b-4c3e-9746-2f4b096c9433",
+    "data": [
+      {
+        "text": "remove reminders with title ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner party",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e93e644d-5a1b-42cd-a6ac-8c84abfc1fbe",
+    "data": [
+      {
+        "text": "erase ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " reminders please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0747e657-fc8f-4f20-92c9-ca1ef7e64022",
+    "data": [
+      {
+        "text": "erase reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "call you",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91ac8716-7743-4ae9-a899-0d4409fff583",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " my reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61e8fed2-842a-4a13-bebe-797d3b6e9717",
+    "data": [
+      {
+        "text": "get",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " rid of my reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b340e03d-8ad8-4bba-b333-d9f4756e4960",
+    "data": [
+      {
+        "text": "don\u0027t",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " remind me anymore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c12a02e6-3c3f-4bfe-9234-a9f10cf2c568",
+    "data": [
+      {
+        "text": "remove the notification about ",
+        "userDefined": false
+      },
+      {
+        "text": "milk",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2005f26-a71d-427e-bc6a-594883e7da65",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " my reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6ea9d4e-7732-4eea-bd56-f3b45239f38f",
+    "data": [
+      {
+        "text": "erase ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " of my reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57a45bde-3e41-4ec6-bf10-bfd159e9f32d",
+    "data": [
+      {
+        "text": "cancel the ",
+        "userDefined": false
+      },
+      {
+        "text": "5 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81719845-3af4-497a-83a9-650f1595da59",
+    "data": [
+      {
+        "text": "remove reminder scheduled for when I\u0027m at ",
+        "userDefined": false
+      },
+      {
+        "text": "Waverley Street Palo Alto",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cea40c05-f170-4b1c-8a0b-ae9a4097bf51",
+    "data": [
+      {
+        "text": "please remove a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1f38b65-d54e-4bb2-8fb8-f738a7126830",
+    "data": [
+      {
+        "text": "move reminder to trash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc1ac37b-2285-4f7e-a856-cdf255f7954c",
+    "data": [
+      {
+        "text": "turn off",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88f9166a-8864-41db-8be9-1089b5023a91",
+    "data": [
+      {
+        "text": "remove reminder with name ",
+        "userDefined": false
+      },
+      {
+        "text": "business call",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebbad9c2-e73e-411f-92cd-3a744dfc6f52",
+    "data": [
+      {
+        "text": "cancel reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b0581eb-e548-4a3a-a3be-31faafec8070",
+    "data": [
+      {
+        "text": "can you cancel my reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "715f4678-1601-4409-bfae-071cd88ea109",
+    "data": [
+      {
+        "text": "remove my reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cf0e309-e25a-445b-a269-450bb784c936",
+    "data": [
+      {
+        "text": "cancel ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6642dd1-44a0-4e2f-ab8d-90f72eb698a0",
+    "data": [
+      {
+        "text": "remove reminder ",
+        "userDefined": false
+      },
+      {
+        "text": "milk",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f01e16fc-d8ec-4ea3-9d9e-384a2f56673e",
+    "data": [
+      {
+        "text": "remove my reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b71ad58d-725c-421e-91f6-e5a3ce87a23e",
+    "data": [
+      {
+        "text": "do not remind me about ",
+        "userDefined": false
+      },
+      {
+        "text": "going to sleep",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40b17138-5eef-4b40-b061-2621cfac18d6",
+    "data": [
+      {
+        "text": "please ",
+        "userDefined": false
+      },
+      {
+        "text": "clear",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " reminders that ",
+        "userDefined": false
+      },
+      {
+        "text": "deliver",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb9769d4-aad6-49ce-b0cd-75babcf96b21",
+    "data": [
+      {
+        "text": "remove reminders scheduled for when I ",
+        "userDefined": false
+      },
+      {
+        "text": "come",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "home",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c0860f9-df9d-454a-a202-b5e4a03eff1a",
+    "data": [
+      {
+        "text": "remove reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e68c6ae6-b014-40ef-96a0-2bfba471fb46",
+    "data": [
+      {
+        "text": "remove reminders for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a371c20-0a73-4b44-afbf-1560e7c7062a",
+    "data": [
+      {
+        "text": "remove reminder titled ",
+        "userDefined": false
+      },
+      {
+        "text": "doctor\u0027s appointment",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22e060e0-c8ae-4f1c-a7cc-5eb1d2a983d9",
+    "data": [
+      {
+        "text": "get",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " rid ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " my reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3df79b25-0499-42ce-82fc-c0e1bf1fb235",
+    "data": [
+      {
+        "text": "remove reminders set for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9ec51ae-991e-4c4c-b747-89c07a37f86c",
+    "data": [
+      {
+        "text": "remove reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a89df51-694c-49d8-9814-d5012f39e330",
+    "data": [
+      {
+        "text": "delete another reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d808ade-afc4-4492-b3dc-2e76b3f945a5",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "today\u0027s",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ef48c63-574b-479d-a021-81dfe1389bea",
+    "data": [
+      {
+        "text": "delete reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c49a810-4b85-4abf-b610-1c39832b608e",
+    "data": [
+      {
+        "text": "remove reminders for ",
+        "userDefined": false
+      },
+      {
+        "text": "1 am",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08788adb-234d-4635-a857-cbb445e0641c",
+    "data": [
+      {
+        "text": "remove a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c87fcee1-41e1-4f24-947d-e83ab42b04cb",
+    "data": [
+      {
+        "text": "remove my ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8be3c0f-9dba-4a39-9c40-141918fca6d9",
+    "data": [
+      {
+        "text": "don",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " t remind me about ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting with john",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e68451be-5b15-4802-b542-344afe415e02",
+    "data": [
+      {
+        "text": "delete this reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85c6cc69-2375-4e2b-a966-3bc61fc5b3e4",
+    "data": [
+      {
+        "text": "remove reminders with title ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b435c79-0c89-41a9-a73f-c63dfe807793",
+    "data": [
+      {
+        "text": "erase ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " my reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b07014c-0067-40de-8a64-929a55058db9",
+    "data": [
+      {
+        "text": "erase my reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

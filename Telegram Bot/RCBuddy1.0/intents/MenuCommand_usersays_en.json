@@ -1,0 +1,163 @@
+[
+  {
+    "id": "1991ba7c-a6da-4ee1-b21b-e9628cd36a4b",
+    "data": [
+      {
+        "text": "DH menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6700539-bfc9-4997-aa27-2e3ea44abb5e",
+    "data": [
+      {
+        "text": "RC menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4af54970-86a1-4319-977f-7781e82ab7a0",
+    "data": [
+      {
+        "text": "RC DH menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91b31dcb-f87b-48c2-a0ed-24786bf6f46b",
+    "data": [
+      {
+        "text": "Dining hall menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35cc43b9-b5d4-4259-8f73-905fa66995b3",
+    "data": [
+      {
+        "text": "Dining hall food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "631686ad-354d-45de-bc4f-58af8cbe4dd7",
+    "data": [
+      {
+        "text": "What\u0027s for dinner at my RC ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "777d37e4-23da-435a-aab6-9bb97d859b8e",
+    "data": [
+      {
+        "text": "Dorm food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3914cc0-2905-4972-a16f-6684e558f9da",
+    "data": [
+      {
+        "text": "Hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-accomodation-type",
+        "userDefined": false
+      },
+      {
+        "text": " food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "875ce5c3-a291-4c34-9fa9-13a1e891b9ed",
+    "data": [
+      {
+        "text": "RC food",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "836a2899-e9ef-4139-89a8-c276a4094329",
+    "data": [
+      {
+        "text": "What\u0027s there to eat at my RC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fa427fb-60bf-4dc1-b63f-90034b3a978a",
+    "data": [
+      {
+        "text": "/menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

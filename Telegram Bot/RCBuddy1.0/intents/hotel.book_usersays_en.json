@@ -1,0 +1,4299 @@
+[
+  {
+    "id": "a5a08777-5d80-42d9-bc8d-fb4ec499af2e",
+    "data": [
+      {
+        "text": "I need a place to stay ",
+        "userDefined": false
+      },
+      {
+        "text": "October 03-05",
+        "meta": "@sys.date-period",
+        "alias": "period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f7b6ae4-66ca-4781-b39e-30adac957036",
+    "data": [
+      {
+        "text": "book suite in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hilton",
+        "meta": "@venue-accomodation-chain",
+        "alias": "venue-chain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39ff8383-fa9c-43c9-ac10-cfdf22335765",
+    "data": [
+      {
+        "text": "best",
+        "meta": "@map-sort",
+        "alias": "sort",
+        "userDefined": true
+      },
+      {
+        "text": " hotels in ",
+        "userDefined": false
+      },
+      {
+        "text": "Rwanda",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b6e86e2-9569-4b23-9c70-5eb3798105b4",
+    "data": [
+      {
+        "text": "let\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47e16a64-b307-4175-a17b-e5c612f7951c",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "1 star",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "motel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6f48098-613e-47f1-81f6-011027cf4a94",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "twenty",
+        "meta": "@sys.number",
+        "alias": "adult",
+        "userDefined": true
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9f10031-853a-4546-8091-72560f66dbad",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Dallas",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "meta": "@sys.date-period",
+        "alias": "period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bee8f699-c31a-4272-9c4f-f25d539c00b4",
+    "data": [
+      {
+        "text": "4-star",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Dallas Texas",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60801819-6988-44b5-bbba-e2e7f43ca24e",
+    "data": [
+      {
+        "text": "I would like to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bd5eade-c17a-4de6-b3a0-504101bf14a8",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "meta": "@map-sort",
+        "alias": "sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nearby",
+        "meta": "@map-sort",
+        "alias": "sort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6182dd05-4feb-417e-ac67-0e3a34aaff78",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "apartment",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "three",
+        "meta": "@sys.number",
+        "alias": "adult",
+        "userDefined": true
+      },
+      {
+        "text": " people ",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "meta": "@sys.number",
+        "alias": "night",
+        "userDefined": true
+      },
+      {
+        "text": " days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ba5d232-4032-4357-9d4a-b2a1e5ef62fd",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " at the ",
+        "userDefined": false
+      },
+      {
+        "text": "Hawksbill",
+        "meta": "@venue-accomodation-title",
+        "alias": "venue-title",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cottage",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Antigua",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a087302-42b7-4fa6-a73e-1576827ee832",
+    "data": [
+      {
+        "text": "reserve",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "motel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " room equipped with ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "meta": "@room-facility",
+        "alias": "room-facility",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb657ac4-cc6e-4b6d-b1dc-393a16a707cc",
+    "data": [
+      {
+        "text": "book a hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "night",
+        "userDefined": true
+      },
+      {
+        "text": " days from ",
+        "userDefined": false
+      },
+      {
+        "text": "next Thursday",
+        "meta": "@sys.date-time",
+        "alias": "checkin-date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7dfc22a-4b11-4718-ac70-d7d96e1c1f37",
+    "data": [
+      {
+        "text": "I would like to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in a ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b43a976-d639-4d63-86df-800d98823f1d",
+    "data": [
+      {
+        "text": "can I ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Dallas",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "next weekend",
+        "meta": "@sys.date-period",
+        "alias": "period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eee750b7-6254-4b34-9368-4d96698b19b1",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " cottage in ",
+        "userDefined": false
+      },
+      {
+        "text": "Dubai",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f04f4e9c-45ce-4f73-bb95-6dd3704f8344",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdb1c36b-3c26-4796-91d4-663216b30943",
+    "data": [
+      {
+        "text": "book suite in the ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "meta": "@map-sort",
+        "alias": "sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "resort",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6eec4a78-9d09-4587-9e64-d0c6c7e5137f",
+    "data": [
+      {
+        "text": "booking ",
+        "userDefined": false
+      },
+      {
+        "text": "motel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd818c19-ea04-4457-89a6-dac77242179d",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fb1c794-13d3-4bdc-8e24-7bec20736bb6",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Hotel 53",
+        "meta": "@venue-accomodation-title",
+        "alias": "venue-title",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "York",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf92c272-aa36-4ad1-a30e-31eac2505bd1",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " room for ",
+        "userDefined": false
+      },
+      {
+        "text": "200 bucks",
+        "meta": "@sys.unit-currency",
+        "alias": "price",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "095cbaa0-6bec-40d6-8442-f3fd57d09344",
+    "data": [
+      {
+        "text": "make reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f52cc4e-f799-443e-bc5b-622d151ced2a",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "meta": "@map-sort",
+        "alias": "sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "motel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "651908d5-02e2-414e-9508-e554cb5297c8",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " rooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c85b9243-16d8-4506-afdf-8b69a4d7c150",
+    "data": [
+      {
+        "text": "I\u0027m trying to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Dallas",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from Friday to Sunday",
+        "meta": "@sys.date-period",
+        "alias": "period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6cbf089-1310-4d2c-97da-33d3dd8f2747",
+    "data": [
+      {
+        "text": "reserve suite for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "adult",
+        "userDefined": true
+      },
+      {
+        "text": " adults",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5756f38b-d37a-48af-8c91-1af1b02a65ad",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Surabaya",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c2c5e00-b41e-4406-8162-877805d9ec64",
+    "data": [
+      {
+        "text": "book a hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " for the ",
+        "userDefined": false
+      },
+      {
+        "text": "upcoming weekend",
+        "meta": "@sys.date-period",
+        "alias": "period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a0d5f2d-7a5a-424b-acaa-c836dd78c594",
+    "data": [
+      {
+        "text": "book a ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for me in",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43685ad3-5a19-43d7-949d-76c3d383c614",
+    "data": [
+      {
+        "text": "book room with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "meta": "@venue-facility",
+        "alias": "venue-facility",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e91ab24d-65c7-4ea6-a4af-72a8ba4590b4",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cottage",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Dubai",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f67d5e49-c26b-4ccb-bd8d-9ace0bdfd9e3",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chiang Mai",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fcc9b77-cd91-430a-b4ad-d60ab9afc5ba",
+    "data": [
+      {
+        "text": "reserve a ",
+        "userDefined": false
+      },
+      {
+        "text": "cottage",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "adult",
+        "userDefined": true
+      },
+      {
+        "text": " adults and ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "child",
+        "userDefined": true
+      },
+      {
+        "text": " children",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17d4c29b-45d9-4b42-9645-9049143ef2a9",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "motels",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " for trip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52543b46-a608-4e52-98e5-f0bc2f078849",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " suite for ",
+        "userDefined": false
+      },
+      {
+        "text": "10 bucks",
+        "meta": "@sys.unit-currency",
+        "alias": "price",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd9857ac-9d04-49a3-bcdd-dc1de5bf3b10",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ibis",
+        "meta": "@venue-accomodation-chain",
+        "alias": "venue-chain",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin Mitte",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af826024-b255-44ef-b9bd-0f5a5378a433",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Malaysia",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8073aa4-5838-4fca-a42b-614eb83d439e",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Langkawi",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "605281aa-1cc0-46b1-8eac-8f5d1085df4d",
+    "data": [
+      {
+        "text": "book room in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hilton",
+        "meta": "@venue-accomodation-chain",
+        "alias": "venue-chain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f6f1ae8-af89-4679-bdb9-26c6b0b239eb",
+    "data": [
+      {
+        "text": "need to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Dallas",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64f54f79-ecbb-4c05-bd8c-3e8188f37b10",
+    "data": [
+      {
+        "text": "Alexandru Villa",
+        "meta": "@venue-accomodation-title",
+        "alias": "venue-title",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Romania",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee53d7fc-4924-42ed-abb3-ac0cc9b68dac",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cf81ea3-924b-4e37-8640-afc26d85bb8a",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "motel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Jacksonville",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ca63625-cfc8-4a46-b27d-44d13c965e86",
+    "data": [
+      {
+        "text": "please ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d85bd3ef-9330-48cd-9d1b-e4c59fa16258",
+    "data": [
+      {
+        "text": "book room in ",
+        "userDefined": false
+      },
+      {
+        "text": "Gloria",
+        "meta": "@venue-accomodation-title",
+        "alias": "venue-title",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97f84ce7-a04e-4019-bedb-efae6b7c10da",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "July twenty three",
+        "meta": "@sys.date-time",
+        "alias": "checkin-date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ca13dfb-9dc0-4db7-a4fd-badd53503571",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "943b7ea2-226a-4b36-9524-249260e832b2",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "motel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "free Wi-Fi",
+        "meta": "@venue-facility",
+        "alias": "venue-facility",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3da1250f-6c8b-4b00-b1cd-c3d4e8040fa0",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "motel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Germany",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e84be7c-1830-4804-87d4-12d41eaa2213",
+    "data": [
+      {
+        "text": "to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41ecd280-85fb-4763-84fa-8576d153a49f",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "1 star",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " suite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49d4c45c-584b-4a63-8b17-704ba4df5cd2",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1de95b5b-3462-4d42-9e58-976ab6d4714c",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Germany Frankfurt",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f98353e7-2fc0-4097-8825-74906fdd2006",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Baguio",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f072c05-7f42-40cf-8c5b-63c798dff7b7",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chennai",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "faab3a1b-1a36-4f53-94ac-edcf2c44b171",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "2 star",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "motel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6cf1f28-cd13-4250-9eb7-846400c524dc",
+    "data": [
+      {
+        "text": "5 star",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": true
+      },
+      {
+        "text": " hotels in ",
+        "userDefined": false
+      },
+      {
+        "text": "Alabama",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a0547d9-670b-4629-acad-b7751a35e436",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "meta": "@map-sort",
+        "alias": "sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "resort",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acbd79c3-e427-413f-8b87-4f3984aa3fde",
+    "data": [
+      {
+        "text": "get me a room in the ",
+        "userDefined": false
+      },
+      {
+        "text": "cheapest",
+        "meta": "@map-sort",
+        "alias": "sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nearby",
+        "meta": "@map-sort",
+        "alias": "sort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11f959fb-f98d-4051-8ece-292d57c96739",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63f510b7-377c-4b12-80f3-4f6d7aae4d4a",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "apartment",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "adult",
+        "userDefined": true
+      },
+      {
+        "text": " adult and ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "child",
+        "userDefined": true
+      },
+      {
+        "text": " child",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6df7e856-6e24-4c68-8608-4a7d611be7be",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostels",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5ea2cc7-5209-4513-9073-fe1d9b130956",
+    "data": [
+      {
+        "text": "book suite with ",
+        "userDefined": false
+      },
+      {
+        "text": "hair dryer",
+        "meta": "@room-facility",
+        "alias": "room-facility",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea8720a4-109c-4bcb-86a3-c4e63c9b58b1",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Egypt",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44798089-84e2-45d5-b4a5-00a3dadf6f3b",
+    "data": [
+      {
+        "text": "hi I wanna ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Sydney",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "294531b7-9d3a-43fc-9705-7e9b2c799350",
+    "data": [
+      {
+        "text": "Athena",
+        "meta": "@venue-accomodation-title",
+        "alias": "venue-title",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Novotel",
+        "meta": "@venue-accomodation-chain",
+        "alias": "venue-chain",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3e552ed-770a-4d4b-8579-9866fee12973",
+    "data": [
+      {
+        "text": "help me ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d4bb7e6-d37d-43cb-9da5-169edcacde3a",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a95bb1ba-20fb-408d-be41-ad7a1f277d34",
+    "data": [
+      {
+        "text": "book room with ",
+        "userDefined": false
+      },
+      {
+        "text": "hair dryer",
+        "meta": "@room-facility",
+        "alias": "room-facility",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e7d88f6-128f-4b75-b570-a51a5ae9c1b0",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostels",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94b62f21-8c13-4880-b10e-22dd0fcae791",
+    "data": [
+      {
+        "text": "I\u0027d like to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7925831-b6f3-4c2b-9d46-9edd37b9ea06",
+    "data": [
+      {
+        "text": "ok ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c7b3722-1a02-4e8c-900a-db7c28e8ba6e",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "cottage",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cf2a640-82d9-4edb-a34a-12e35686deec",
+    "data": [
+      {
+        "text": "I\u0027d like to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Barcelona",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d55d8f85-eab2-4e73-8a64-800a45700d45",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "398c39aa-a168-4099-bc37-b50251fa81a7",
+    "data": [
+      {
+        "text": "please ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55656b87-7c85-430d-8238-48cbd1edabce",
+    "data": [
+      {
+        "text": "book a room for ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "adult",
+        "userDefined": true
+      },
+      {
+        "text": " adult",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99ab267d-8447-4144-9577-3723002e7dbd",
+    "data": [
+      {
+        "text": "I said I would like to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Mariott",
+        "meta": "@venue-accomodation-chain",
+        "alias": "venue-chain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b8b1d9c-3fbf-4f2e-9aad-a52cc82ecc89",
+    "data": [
+      {
+        "text": "ok ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " at the ",
+        "userDefined": false
+      },
+      {
+        "text": "Gateway hotel Regina",
+        "meta": "@venue-accomodation-title",
+        "alias": "venue-title",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06d90491-9808-4cd3-a9cc-b48a0e554d51",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room in",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "resort",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e3b0ddc-ab8d-4d26-9837-2e70fdbd0c77",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Goa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc909167-d403-4e2e-b0ee-506b8cbde2eb",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nebraska",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06628f50-d356-4ad1-9f72-de8a7f12b4a1",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "motel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Las Vegas",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3c5c53e-bb81-4ee8-a9aa-5d854303f520",
+    "data": [
+      {
+        "text": "hello",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " I would like to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Thailand",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "777be744-2ae2-4384-b3c4-6efa0f105003",
+    "data": [
+      {
+        "text": "can you also help ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " rooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "122063b5-54dd-4bf2-99a8-a8f815df3f80",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "apartment",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "York",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ab02227-158e-4696-9532-5d2a2450b3cb",
+    "data": [
+      {
+        "text": "need to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "adult",
+        "userDefined": true
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81859312-db09-4053-9dfb-8e67ff767f15",
+    "data": [
+      {
+        "text": "find a ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Tokyo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " starting on ",
+        "userDefined": false
+      },
+      {
+        "text": "April 10",
+        "meta": "@sys.date-time",
+        "alias": "checkin-date",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "night",
+        "userDefined": true
+      },
+      {
+        "text": " nights make sure it\u0027s a ",
+        "userDefined": false
+      },
+      {
+        "text": "Hyatt",
+        "meta": "@venue-accomodation-chain",
+        "alias": "venue-chain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cd58695-4f2f-4a6d-85dd-b23a290fa6c7",
+    "data": [
+      {
+        "text": "book suite in ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c797147b-bdf2-4b01-8987-54d54757d9ef",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in a ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "103861fe-c6bc-43d0-a6d3-8f3eab80522b",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " check in ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "checkin-date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb1550a7-12c9-4a3f-be27-b3e81a25f76f",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "checkin-date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "159dc1a7-99e2-42e1-99ff-7f5144be7045",
+    "data": [
+      {
+        "text": "make a booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebedaaa1-8d03-429c-8c48-72629a09caeb",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " suite in ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12d967ca-708b-4335-9186-489abffa3b99",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa6828a6-c4d4-4ced-9d77-86cdbeab303a",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " at the ",
+        "userDefined": false
+      },
+      {
+        "text": "Hilton",
+        "meta": "@venue-accomodation-chain",
+        "alias": "venue-chain",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "SF",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7018fa12-0cc8-445c-b8a2-2a66c9e1d782",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cottage",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b1b8e2a-95e3-4bf4-935f-31a4972404c8",
+    "data": [
+      {
+        "text": "Diamond resorts",
+        "meta": "@venue-accomodation-chain",
+        "alias": "venue-chain",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "759f1dbb-c02a-41d2-902e-f508b0f49987",
+    "data": [
+      {
+        "text": "could you ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e711e2e9-6433-464a-adcb-96c499806f80",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "3 star",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6851dc44-dac6-4b65-86aa-23b800e1cfc1",
+    "data": [
+      {
+        "text": "I would like to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Mariott",
+        "meta": "@venue-accomodation-chain",
+        "alias": "venue-chain",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from March 6 to 7",
+        "meta": "@sys.date-period",
+        "alias": "period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c483675e-b110-4b3c-8c13-eac43f3377bd",
+    "data": [
+      {
+        "text": "book suite with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "meta": "@venue-facility",
+        "alias": "venue-facility",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "580c4daf-d55b-4fb5-8549-3fec41129728",
+    "data": [
+      {
+        "text": "book room in ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30c7c713-7919-4735-9618-c2586486ddae",
+    "data": [
+      {
+        "text": "make a ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " reservation for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78613d9c-e8a4-4470-8865-48b4af6cc44f",
+    "data": [
+      {
+        "text": "book suite in ",
+        "userDefined": false
+      },
+      {
+        "text": "Gloria",
+        "meta": "@venue-accomodation-title",
+        "alias": "venue-title",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "459bc526-0880-4e25-b1d6-7c2fb3d46f1f",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " suite for ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "night",
+        "userDefined": true
+      },
+      {
+        "text": " nights",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d2af8e1-ef73-45f3-b072-53fd8bd8d500",
+    "data": [
+      {
+        "text": "book room in ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "meta": "@map-sort",
+        "alias": "sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "motel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fe4c7bf-b884-436b-b89c-d43cf8c9927a",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "549cca4e-7187-47c3-8101-0d06962fc383",
+    "data": [
+      {
+        "text": "I need a place to stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "Rome",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this weekend",
+        "meta": "@sys.date-period",
+        "alias": "period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18c58c7d-a9ff-49c2-b93c-d225664ab4f7",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Rome",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " check in ",
+        "userDefined": false
+      },
+      {
+        "text": "June 10",
+        "meta": "@sys.date-time",
+        "alias": "checkin-date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61620cd6-a3a0-4511-aa5a-412735f716c9",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotels",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Little Rock",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "beac014e-8406-447f-a8e0-2c7c6505557a",
+    "data": [
+      {
+        "text": "Ambassador",
+        "meta": "@venue-accomodation-title",
+        "alias": "venue-title",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Davis",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba57f668-d399-4bbe-9514-896203fcdf20",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "meta": "@map-sort",
+        "alias": "sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " suite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f0356f4-c18f-497a-8cdc-4e0d43e024a7",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf8fb45c-4987-4fa2-92af-3d06bcc1c3f3",
+    "data": [
+      {
+        "text": "reserve",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a room in ",
+        "userDefined": false
+      },
+      {
+        "text": "4 star",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec25c3ee-7d6f-4804-a921-ec22a29dff06",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "New Season",
+        "meta": "@venue-accomodation-title",
+        "alias": "venue-title",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb6b8558-0ac2-4fb9-a01b-569839a904f4",
+    "data": [
+      {
+        "text": "find a ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Tokyo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "April 10",
+        "meta": "@sys.date-time",
+        "alias": "checkin-date",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "night",
+        "userDefined": true
+      },
+      {
+        "text": " nights let it be ",
+        "userDefined": false
+      },
+      {
+        "text": "Hyatt",
+        "meta": "@venue-accomodation-chain",
+        "alias": "venue-chain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df52da53-d5b7-434c-9565-21f0e6ba1f5a",
+    "data": [
+      {
+        "text": "book a ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " room for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "child",
+        "userDefined": true
+      },
+      {
+        "text": " children",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b6c376c-05c4-4eee-902f-e37a1e3ca17f",
+    "data": [
+      {
+        "text": "aloha",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hawaii",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06b27a65-893b-4e81-bdf2-471dc3c39273",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cottage",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Waterford",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f75fe5a5-7174-4bb9-a81c-901f8a45674a",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "adult",
+        "userDefined": true
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c5794e5-21d1-4e54-967b-f9fbc28cff36",
+    "data": [
+      {
+        "text": "cheapest",
+        "meta": "@map-sort",
+        "alias": "sort",
+        "userDefined": true
+      },
+      {
+        "text": " way to ",
+        "userDefined": false
+      },
+      {
+        "text": "reserve",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hostels",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Las Vegas",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21ef2e7e-fa7d-4216-b718-dd00ec2e25b7",
+    "data": [
+      {
+        "text": "book a room for ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "adult",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ffb4c5d-c9da-4163-b910-432b6a00154f",
+    "data": [
+      {
+        "text": "book a hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "Budapest",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "19th of August",
+        "meta": "@sys.date-time",
+        "alias": "checkin-date",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "23rd of August",
+        "meta": "@sys.date-time",
+        "alias": "checkout-date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fed90419-c173-4d67-ab54-a029832d6cb1",
+    "data": [
+      {
+        "text": "I would like to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Saudi Arabia",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c792f81-aa25-43e3-aac2-8acaa6ca044f",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "hostel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " room in ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05f7cdc4-9df3-4f96-a233-8c42fb86b0e6",
+    "data": [
+      {
+        "text": "5 star",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ae6a35e-0027-4f45-b98b-2d3e5f4d9d49",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@venue-accomodation-type",
+        "alias": "venue-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Little Rock Arkansas",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

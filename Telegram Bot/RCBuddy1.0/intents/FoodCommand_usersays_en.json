@@ -1,0 +1,139 @@
+[
+  {
+    "id": "7e6da115-73a9-40d9-b32a-121bae4f75fa",
+    "data": [
+      {
+        "text": "I\u0027m tired of RC food, what else is there to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e4e7952-5c4f-47bb-880b-82302aecc8f2",
+    "data": [
+      {
+        "text": "I want to eat ",
+        "userDefined": false
+      },
+      {
+        "text": "something",
+        "meta": "@song",
+        "alias": "song",
+        "userDefined": false
+      },
+      {
+        "text": " outside the RC.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c15196f-6b08-445b-b923-a4207e11dad1",
+    "data": [
+      {
+        "text": "Food in UTown",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ccd50e16-16ed-44c8-8283-114d2faa54fd",
+    "data": [
+      {
+        "text": "Eat at UTown",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2138b3c9-014d-4323-9c70-ed152c4c2cec",
+    "data": [
+      {
+        "text": "What to eat UTown",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2008d222-0be5-4b3f-b387-fe4ad32e73b8",
+    "data": [
+      {
+        "text": "UTown food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9ce19ff-28f7-4795-8b44-0bd9a0012eb9",
+    "data": [
+      {
+        "text": "What\u0027s there to eat in UTown?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7e9dba1-1405-43a9-9799-e5cc27b2a25f",
+    "data": [
+      {
+        "text": "Recommend me ",
+        "userDefined": false
+      },
+      {
+        "text": "something",
+        "meta": "@song",
+        "alias": "song",
+        "userDefined": false
+      },
+      {
+        "text": " to eat from UTown.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aae6fee9-b84b-4a68-8615-368d992a8f39",
+    "data": [
+      {
+        "text": "/food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "description": "Helper bot for NUS Residential College (RC) residents.",
+  "language": "en",
+  "shortDescription": "Scheduling, editing, showing and removing reminders",
+  "examples": "User: Set a reminder for 7 am tomorrow: Yoga.\nUser: For Monday also.\n\nUser: Rename reminder about cat.\nUser: And about dentist too.\n\nUser: Reschedule my 7 am reminder to 5 am.\n\nUser: Show me my past reminders about yoga from last week.\n\nUser: Remove all reminders for this week.\n\nUser: Snooze reminder.",
+  "linkToDocs": "",
+  "displayName": "RCBuddy1.0",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V1",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Hong_Kong",
+  "webhook": {
+    "url": "",
+    "username": "",
+    "headers": {},
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": false,
+  "mlMinConfidence": 0.5,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "4c5743d08f7b45df92727d2499e1d299",
+  "analyzeQueryTextSentiment": true,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": true
+}

@@ -1,0 +1,39 @@
+{
+  "id": "25de58c4-99ba-40ef-b345-d11b399ff630",
+  "name": "HelpCommand",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are some of the commands I\u0027ll respond to! Please note that commands which are under construction may not work properly.\n\n/food - Hungry? Let me introduce some of UTown\u0027s culinary options to you!\n/menu - What\u0027s being served in the dining hall today?\n/checklounge - Check to see if your favourite lounge is currently available.\n/checklaundry - Check to see if the washing machines and dryers in your RC are available.\n/randomtelegroup - Recommends a Telegram group, channel or bot from our list of recommendations. Use /telegroups for the full list!\n/help - Shows this list again."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "TELEGRAM_HELP"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

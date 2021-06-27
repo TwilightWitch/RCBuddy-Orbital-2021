@@ -1,0 +1,93 @@
+{
+  "id": "a0e2ad8b-f5e8-4f6b-8f6a-ed5582290ae9",
+  "name": "CheckLoungeCommand - Cinnamon - 4thFree",
+  "auto": true,
+  "contexts": [
+    "CheckLoungeCommand-Cinnamon"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "CheckLoungeCommand-Cinnamon",
+          "lifespan": 5
+        },
+        {
+          "name": "Cinnamon4thFree",
+          "lifespan": 5
+        },
+        {
+          "name": "CheckLoungeCommand-Cinnamon-4thFree-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a9f3defb-9b04-4a84-9552-42e78e9848d3",
+          "name": "map-sort",
+          "required": false,
+          "dataType": "@map-sort",
+          "value": "$map-sort",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "dee8849c-ac93-497f-a154-0ad1327796a1",
+          "name": "star",
+          "required": false,
+          "dataType": "@star",
+          "value": "$star",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f36322ee-2ca3-4dd2-b863-b790e0dba415",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes, it\u0027s free! Will you be using it?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,144 @@
+{
+  "id": "124723d6-bd2f-46bf-be26-56e82128b399",
+  "name": "Week1Menu",
+  "auto": true,
+  "contexts": [
+    "MenuCommand-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "MenuCommand-yes-followup-Week1",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5aa7a6d6-c072-4c8b-b70e-c0183c9a1890",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5fa97ccf-8451-4532-a18b-03f4035412f7",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "You requested for week 1\u0027s menu!",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, here are the menus for week 1."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://drive.google.com/file/d/1lwdrzpd-RBroXsyDoMMB4yYquQkwWQ0O/view?usp\u003dsharing",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://drive.google.com/file/d/1Zlr_GcZQ0gdOAH-kd0eDTlLKxMj_nr9k/view?usp\u003dsharing",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://drive.google.com/file/d/1VTOW9rCU2dwVKoRnV61Z_1c-ngap40Gv/view?usp\u003dsharing",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://drive.google.com/file/d/1FMWplhHv8dyGWlszStfV2F8otqraqPM_/view?usp\u003dsharing",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://drive.google.com/file/d/1lJs95-quVoxXOrtkf27EqeI28-dP1g4V/view?usp\u003dsharing",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://drive.google.com/file/d/19C5-IU5OPkscc3uXejiXdWlxakHzTaKs/view?usp\u003dsharing",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

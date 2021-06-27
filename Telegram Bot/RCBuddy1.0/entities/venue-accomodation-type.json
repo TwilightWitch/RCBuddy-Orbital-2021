@@ -1,0 +1,9 @@
+{
+  "id": "e79b93c4-270e-48d4-b2af-beddf360c6c1",
+  "name": "venue-accomodation-type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

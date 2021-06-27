@@ -1,0 +1,100 @@
+[
+  {
+    "id": "90753188-9b2c-4c18-9a31-d045a0b75839",
+    "data": [
+      {
+        "text": "Leave ",
+        "userDefined": false
+      },
+      {
+        "text": "fourth",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " floor lounge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18467068-8b7e-437f-8ded-68ce0b3eec9b",
+    "data": [
+      {
+        "text": "Oh no I\u0027m so sorry I forgot to check out of the lounge just now!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6a91d2c-bfc5-4eb2-8374-159ecc2615e1",
+    "data": [
+      {
+        "text": "Check out of ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": false
+      },
+      {
+        "text": "th floor lounge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8d51914-9268-4dc3-b083-a3b105d0fabb",
+    "data": [
+      {
+        "text": "I\u0027ve stopped using the lounge.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f6876a5-4a2d-4b0a-a2f6-fb82aa519b44",
+    "data": [
+      {
+        "text": "I\u0027m leaving the lounge now.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "073b5b7f-b20e-40a2-be55-a9e0969f4602",
+    "data": [
+      {
+        "text": "/loungecheckout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

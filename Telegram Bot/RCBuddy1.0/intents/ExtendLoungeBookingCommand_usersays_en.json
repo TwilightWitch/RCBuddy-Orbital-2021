@@ -1,0 +1,80 @@
+[
+  {
+    "id": "2909f1e0-c41b-441e-b972-dae2f555a435",
+    "data": [
+      {
+        "text": "extend my lounge booking for level ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d24937e5-3d8e-417e-b28f-38225f5edf7d",
+    "data": [
+      {
+        "text": "I need the ",
+        "userDefined": false
+      },
+      {
+        "text": "fourth",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " floor lounge for a bit longer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0874885d-fb56-4ffd-8bf2-127f4dc8ffdb",
+    "data": [
+      {
+        "text": "I\u0027ll keep using the ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@star",
+        "alias": "star",
+        "userDefined": false
+      },
+      {
+        "text": "th floor lounge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2654d1d1-d226-4add-ad2c-8cc88dbcc664",
+    "data": [
+      {
+        "text": "/extendloungebooking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

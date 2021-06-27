@@ -1,0 +1,4926 @@
+[
+  {
+    "id": "8509e425-a862-4029-a4bf-d8bd9701ec7a",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "have a dinner",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every sunday",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 am",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61a28fed-a811-40c3-b71e-b9429fcf48e2",
+    "data": [
+      {
+        "text": "set reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "7 am tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " about ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "210a817c-9a7b-43aa-bffa-72087d785245",
+    "data": [
+      {
+        "text": "can you add a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f47cb0c-188c-4207-8fda-4fcbb0e9b04a",
+    "data": [
+      {
+        "text": "add to reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1588cd55-d9ff-4da6-8e04-2b0bbf5fc7c3",
+    "data": [
+      {
+        "text": "create reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a7d46b8-ebb0-4058-af4e-8ac110e7ca9c",
+    "data": [
+      {
+        "text": "I need you to set a reminder for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c917f74b-8453-40cb-a6aa-fb2b72051aac",
+    "data": [
+      {
+        "text": "I would like to set a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1467638-9ba9-4bc1-a3d0-2991ff5ec969",
+    "data": [
+      {
+        "text": "remind me for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "453222a5-22e3-4789-8e06-7c29062e64c1",
+    "data": [
+      {
+        "text": "not now remind me later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dca12620-3e51-4248-a212-994f1ca0600d",
+    "data": [
+      {
+        "text": "remind about ",
+        "userDefined": false
+      },
+      {
+        "text": "running",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "6 am",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12b49444-b47c-4ca1-8ce7-5cff8d7a4c06",
+    "data": [
+      {
+        "text": "remind me at",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed048ce0-3878-4629-bc44-3238c69ac7d7",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "study",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93a95995-2d66-4ee9-83ff-75d28a545685",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "doctors appointment",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d295f7a0-b70c-427a-8c57-591a2cda3650",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "wake up",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "6 am",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9f9d735-1370-4a60-8240-4213ebd4c424",
+    "data": [
+      {
+        "text": "schedule reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "631a1164-df86-43f2-ad06-4ad0f24625b9",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "from monday till wednesday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b93e935-bb55-4edd-8e81-16b57d12c53c",
+    "data": [
+      {
+        "text": "setup a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "172180bf-4a20-438f-9d2d-d581c678b086",
+    "data": [
+      {
+        "text": "send me a reminder to ",
+        "userDefined": false
+      },
+      {
+        "text": "leave for work",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in 10 minutes",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f296989-2497-46e3-ad0b-fbc157b2cce0",
+    "data": [
+      {
+        "text": "remind me on the ",
+        "userDefined": false
+      },
+      {
+        "text": "27th of August",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Tomy flight",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb2dd3c6-bdd5-4f43-8262-b49f5a11c38d",
+    "data": [
+      {
+        "text": "remind me about ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "15pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4601fc1c-6033-473a-a486-d26f74bd9efc",
+    "data": [
+      {
+        "text": "remind me at ",
+        "userDefined": false
+      },
+      {
+        "text": "7pm on November 11",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "do homework",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc724b5d-a1cc-41ea-8bd2-99bb280220b6",
+    "data": [
+      {
+        "text": "can you put a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "002898b7-5ce9-49cf-a412-7beba6d014f1",
+    "data": [
+      {
+        "text": "can you do a reminder for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60e165f7-c9e8-4969-851a-cf95fa02ce2a",
+    "data": [
+      {
+        "text": "I\u0027d like to set a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26357232-e4ec-4a7d-a15b-cb6d4e441181",
+    "data": [
+      {
+        "text": "I want to add a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f8eeb6e-0257-437f-965c-75696f09ff5d",
+    "data": [
+      {
+        "text": "please add reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b10d1fb7-efac-4dba-9863-2c7a9b8c38ee",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "turn the lights on",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f8e1205-a1b4-4663-ba8d-8acc06fbd019",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "call",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3961ae1a-0f19-4331-a91e-9bc488b92a7a",
+    "data": [
+      {
+        "text": "set reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow morning",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92add3b2-3701-4a8b-b237-c039a72c8bb0",
+    "data": [
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " you set a reminder for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "634e3428-8a84-44ab-8f09-fe798b4b879e",
+    "data": [
+      {
+        "text": "remind me at ",
+        "userDefined": false
+      },
+      {
+        "text": "2:35 p.m. tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "not park in the back parking lot",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24aebb4d-5279-465f-9138-e8d0a62c98e8",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "deliver to Saint Barbara Catholic Church",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday 9 to 9:30",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb8f5005-fcdc-4fd0-aa28-de8a6abaa314",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "go to bed",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in 5 minutes",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0b09aac-303d-4ae2-a49b-85614ca2006b",
+    "data": [
+      {
+        "text": "set up reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc127929-5fa3-4fef-8bfc-2db6ab3aeb92",
+    "data": [
+      {
+        "text": "can you remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " something ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4200692-43ee-4049-9cb1-90487c839cc9",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up Joe",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in 30 minutes",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c11b347e-0b71-4e5d-bc3d-b37f862a0aa2",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "brush my teeth",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1bce8d5-ceb2-40bc-8e83-f7738baa656c",
+    "data": [
+      {
+        "text": "set a new reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92a9cd5b-1cda-4ec7-8ce5-412452b92654",
+    "data": [
+      {
+        "text": "set my reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5977f2a-29fb-433b-8458-89f9c8f9c6ac",
+    "data": [
+      {
+        "text": "remind me about ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in 1m",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55cc98d2-8901-4c0f-94c9-0d93475df952",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "go to work",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "19th of August",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49e4fb46-f9d4-4110-9694-97bb5aeab28e",
+    "data": [
+      {
+        "text": "remind me at ",
+        "userDefined": false
+      },
+      {
+        "text": "1 p.m.",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " that ",
+        "userDefined": false
+      },
+      {
+        "text": "I have to eat",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37a3daeb-bde8-41d0-a787-60b9a4f67e72",
+    "data": [
+      {
+        "text": "add a new reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed98ef80-d751-41cb-a331-5094b673f47b",
+    "data": [
+      {
+        "text": "reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "4.15 pm today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "visit grandma",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7dac46df-f2f0-4844-9cfc-c6dbf068711b",
+    "data": [
+      {
+        "text": "set a reminder for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80de023d-6b55-42e3-9261-eee577e9a256",
+    "data": [
+      {
+        "text": "set reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8298d9a0-ace6-498b-84a3-728635f9c5dc",
+    "data": [
+      {
+        "text": "add reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e34a7b62-4448-4649-ae9b-c9eca5fcbf0e",
+    "data": [
+      {
+        "text": "make a new reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62ae2f76-bcdf-445e-a72a-877e01844595",
+    "data": [
+      {
+        "text": "can you remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " an ",
+        "userDefined": false
+      },
+      {
+        "text": "appointment",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba6c1231-448a-4124-a5da-d57b5a81f8dc",
+    "data": [
+      {
+        "text": "can you set reminders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0065c7b-52af-4234-8853-ec289862cba6",
+    "data": [
+      {
+        "text": "I need to set up a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71fd1ca1-8927-4cc1-ba34-57be0f03ec8a",
+    "data": [
+      {
+        "text": "make reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13b8d741-8dd7-465e-9cab-d7a3fbdb60e4",
+    "data": [
+      {
+        "text": "remind me at ",
+        "userDefined": false
+      },
+      {
+        "text": "12 o\u0027clock",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc6aec71-adbc-451f-a0d4-a39715918d39",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f566a37-ba83-45f0-a64e-f4485a812586",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d2ee076-5bd9-458b-8c46-929c17fcbe8e",
+    "data": [
+      {
+        "text": "remind me of a ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " on the ",
+        "userDefined": false
+      },
+      {
+        "text": "27th of August",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9209abde-5dbb-4829-bca2-19f47eeba1a3",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "charge my phone",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "everyday",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "11:00 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9a2ef1d-7015-41eb-b43a-81fb622b05e5",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "call someone",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "everyday",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "4 p.m.",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9543c105-d445-44a5-8864-3917106edd75",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "turn off my phone",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "11 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5a08f82-275e-4885-a7c1-d7daa119c127",
+    "data": [
+      {
+        "text": "I need a reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75287849-dbd5-4d96-9c57-2a68ac34535a",
+    "data": [
+      {
+        "text": "add a reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4df66f9-e0a6-4fcf-8dec-5d8426d0d08d",
+    "data": [
+      {
+        "text": "remind me later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4084a31d-04ac-49c7-a43d-67bfa42d798c",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "work out",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8c5c5fc-3a64-426c-ab5b-2f1052eac460",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "wake up",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f584316-fdbf-40d5-9c28-4731e34f4b22",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "038cd579-1bf5-40c3-b858-738e06440a6e",
+    "data": [
+      {
+        "text": "yes please remind me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a382bf13-01f3-44de-9e9b-819ade023daa",
+    "data": [
+      {
+        "text": "setup reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a073ae81-184f-42a7-b9b9-5c9632073a61",
+    "data": [
+      {
+        "text": "remind ",
+        "userDefined": false
+      },
+      {
+        "text": "flight",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "6 am",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7ae7e7c-17c6-4458-9e80-5fb37ebcc77e",
+    "data": [
+      {
+        "text": "set reminder ",
+        "userDefined": false
+      },
+      {
+        "text": "buy milk",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "every Monday and Wednesday",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "5 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b760fa64-d7b6-45e8-9c4d-f277ee7900a7",
+    "data": [
+      {
+        "text": "help me remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "call Bae",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow at 9",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d5664b8-8ab3-497e-ade3-4f8697acad5e",
+    "data": [
+      {
+        "text": "new reminder ",
+        "userDefined": false
+      },
+      {
+        "text": "eat an apple",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "9 am",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fa8828e-3491-46ae-962e-99365b73dd41",
+    "data": [
+      {
+        "text": "don\u0027t",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " let ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " forget ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up milk",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7884f9c-7d97-4acd-bc37-0a96225d894b",
+    "data": [
+      {
+        "text": "I want to make a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dcec13d-c553-4c45-a121-c84f14e21441",
+    "data": [
+      {
+        "text": "make a reminder for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc724e84-96f3-49f7-b962-6ef5615a0ad2",
+    "data": [
+      {
+        "text": "can you remind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c47928a-f7ca-427e-9582-f4eba5690cb9",
+    "data": [
+      {
+        "text": "I would like to set up a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60b22424-8e72-462b-8dde-1ddaa56ed688",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "everyday",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f90231d-fcf2-41ce-8a89-1e9913300caf",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "appointment",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34fe3cec-ba10-4232-a1cb-094a7b6fd562",
+    "data": [
+      {
+        "text": "set a reminder please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59104ca4-9976-41e6-88d5-46eaec2d5a4c",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "wear green on st. patrick’s day",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0da8cfba-197a-4c0a-b29d-56fe0e150b8c",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "buy bread",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 11 am tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9370228-fe8a-4260-9bb0-1985e418d71e",
+    "data": [
+      {
+        "text": "new reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "716bb169-d996-4ec1-a371-e4a39a2fbd4a",
+    "data": [
+      {
+        "text": "add reminder ",
+        "userDefined": false
+      },
+      {
+        "text": "feed a cat",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in 3 min",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "283172bb-844f-4691-9f73-744a6d12772e",
+    "data": [
+      {
+        "text": "can you remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "read my book wash dishes and sweep the floor",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd3ced01-a773-4f0f-9807-7810894089fd",
+    "data": [
+      {
+        "text": "reminder to ",
+        "userDefined": false
+      },
+      {
+        "text": "play with my cat",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every workday",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "7 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fefa19db-3ec3-4d48-b174-43d5b0d717f1",
+    "data": [
+      {
+        "text": "I want a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c3394fd-436f-4fa9-953c-d0b506b0527f",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "wash my car",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1bf72a6-b949-46a5-a610-310a0ae4e911",
+    "data": [
+      {
+        "text": "can you make a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc8057c4-a431-466c-b50b-ace064bfae6f",
+    "data": [
+      {
+        "text": "can you remind me to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fefd4bb-40fd-4e45-9d95-95d540ba6268",
+    "data": [
+      {
+        "text": "I need a reminder ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d74784c-7e40-491f-97a7-4f2fdb10e8ce",
+    "data": [
+      {
+        "text": "can you set up a reminder for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63cd527b-6634-4068-a112-7ccb6a139825",
+    "data": [
+      {
+        "text": "can you set me a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "833c89fc-2a1c-4944-a7ae-1c5d9fa234a4",
+    "data": [
+      {
+        "text": "need to set a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20bd2c20-9271-4f2d-9436-dfb22582b944",
+    "data": [
+      {
+        "text": "remind me at ",
+        "userDefined": false
+      },
+      {
+        "text": "noon",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3aaa4ea-ffc3-473f-9e8c-13da476b20aa",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "on weekend",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad446bfa-8c49-4d2c-9a3a-95a8cb484e89",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "take medicine",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "883d94a8-1998-4aad-9797-502ccbec3f2e",
+    "data": [
+      {
+        "text": "set a reminder ",
+        "userDefined": false
+      },
+      {
+        "text": "for Thursday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6e1c694-16f5-4580-b3be-1f3bdb8bbfb2",
+    "data": [
+      {
+        "text": "reminder for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18ca2c0a-2a28-44e2-b2fd-b939a944e12d",
+    "data": [
+      {
+        "text": "set a reminder ",
+        "userDefined": false
+      },
+      {
+        "text": "for 1 hour",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e45b39b2-0421-4762-ad0b-1f59ae97d990",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "boil water",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every morning",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "7 a.m.",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7811b681-4bfd-44c2-bb92-dc759aa474c6",
+    "data": [
+      {
+        "text": "set reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "7 am tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "yoga",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eccadcab-e5e5-481a-b2f3-1a9dcf21e995",
+    "data": [
+      {
+        "text": "add reminder for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44bacd3c-2acc-452e-b60e-6b3086c4011a",
+    "data": [
+      {
+        "text": "new reminder about ",
+        "userDefined": false
+      },
+      {
+        "text": "fitness",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28d16eb3-3e34-45fa-addf-b9c25687284e",
+    "data": [
+      {
+        "text": "can you remind me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d96869e-1298-4e92-a172-8d78fc92cfaa",
+    "data": [
+      {
+        "text": "can you remind me something ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b707dcb-7c75-446f-99fc-a59e48ee2c21",
+    "data": [
+      {
+        "text": "can I set a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6399407-6416-4fa4-858e-4b421e019e2b",
+    "data": [
+      {
+        "text": "can you remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "call",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65ae6914-dcb5-492d-9abc-5c0c2f5a64e1",
+    "data": [
+      {
+        "text": "don",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027t forget to remind me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15c9a9e6-8231-471f-a78b-a67aaf9321f3",
+    "data": [
+      {
+        "text": "I need you to remind me something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7e35c10-edca-435f-bd7d-0122481ee234",
+    "data": [
+      {
+        "text": "I want you to remind me something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d39ddd3-9e07-4787-831f-691b5a2cad5c",
+    "data": [
+      {
+        "text": "can you set a reminder for me ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26aa87cc-1c9e-4c07-aeeb-03f7b3bdb8e0",
+    "data": [
+      {
+        "text": "I would like to add a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "900e9c64-ff59-4861-ba6f-1c16e31656dd",
+    "data": [
+      {
+        "text": "okay remind me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df83d246-17f4-4176-80a6-e99b8219d025",
+    "data": [
+      {
+        "text": "put a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11c75aa0-c73d-4f03-b983-965d21c9f711",
+    "data": [
+      {
+        "text": "ok remind me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f30b57b7-0235-462e-84fd-afca45e55389",
+    "data": [
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " more reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c2b7bd4-6087-4398-89e1-d6f3be4cffe6",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "blood brothers",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cca6834d-0f27-4d0e-a6cc-f276cb365391",
+    "data": [
+      {
+        "text": "remind me I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "doctor\u0027s appointment",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 18,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b008882-8536-4ef5-aeac-f12cdbded5b0",
+    "data": [
+      {
+        "text": "sam",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " I need a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60b464c1-dcc6-4845-978e-05dd5cf5a829",
+    "data": [
+      {
+        "text": "set reminder ",
+        "userDefined": false
+      },
+      {
+        "text": "buy milk",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "November 11 at 5 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f96a0200-a096-4050-b0a4-79400dbcd679",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "see the table",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in 5 minutes",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbf3690b-7300-4831-b3e1-eb6311483c66",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "check my computer",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55bda043-297d-4382-b8a6-8ebae7cba6d5",
+    "data": [
+      {
+        "text": "reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7491faa2-09c6-4165-9b86-f7c89b3fafeb",
+    "data": [
+      {
+        "text": "make me a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd1812cd-75a0-4494-ae01-48deaa4d3b7d",
+    "data": [
+      {
+        "text": "make another reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30bfb22b-62c9-43f7-9144-59342ba2a1d9",
+    "data": [
+      {
+        "text": "can I add a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7abdafaf-3dc6-4ec4-a7de-27021c0dab1a",
+    "data": [
+      {
+        "text": "I need to add a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df2bdc28-4e72-41fb-90e5-b413bbc1956e",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "go to sleep",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef879dea-7b5c-4f14-901d-31a0e7477fcf",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay my credit card bill",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "782a1493-2bf2-4b85-bb0c-ef6bfa176553",
+    "data": [
+      {
+        "text": "remind me I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c1d1c4f-fd2f-479e-b1d1-a129cc9e91f2",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "the day before",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51aa9093-dafe-4594-a639-b9dde79f8471",
+    "data": [
+      {
+        "text": "schedule reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfc10d3d-1534-4144-9867-54d256aee2f2",
+    "data": [
+      {
+        "text": "set reminder ",
+        "userDefined": false
+      },
+      {
+        "text": "for 5 minutes",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "878db745-6566-4074-9a40-e4cabc626a34",
+    "data": [
+      {
+        "text": "remind me about ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in 1hour",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bef3f1f-b1b6-4f67-a82f-a206f6ef299e",
+    "data": [
+      {
+        "text": "set reminder about ",
+        "userDefined": false
+      },
+      {
+        "text": "washing car",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c92399a0-9e57-481f-b00d-1d272b64676d",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "in 15 minutes",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "go to the bar",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4efabc6d-f68e-42d6-9e1c-4426f68abaad",
+    "data": [
+      {
+        "text": "new",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12bca931-de78-4ad5-832e-a4ee02cf901e",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "buy movie tickets",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday evening",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad013c59-93c6-4ec3-9e1d-ec92cf6a4014",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "on weekdays",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d621f52f-d147-46da-b8be-f13cab17079c",
+    "data": [
+      {
+        "text": "reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3ca2673-7bbd-480d-a4db-2480a0acbdb2",
+    "data": [
+      {
+        "text": "I need a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c9075a6-0f76-4bf6-937b-22f66562c337",
+    "data": [
+      {
+        "text": "set reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner with Tom",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0e2d4a7-7c88-45bd-ac55-0b30e924693d",
+    "data": [
+      {
+        "text": "add new reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f9929bb-b280-4fee-8be4-7731f85b40d4",
+    "data": [
+      {
+        "text": "I need a reminder set",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afeade13-b187-4497-8430-7a27065bae89",
+    "data": [
+      {
+        "text": "can you set up a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9457458-db91-4cc9-b2ba-d204920dd618",
+    "data": [
+      {
+        "text": "I need you to remind me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5777274-c745-4fbf-9b6a-15951f48ce65",
+    "data": [
+      {
+        "text": "please remind me to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd1a5ce8-3e01-44b0-aa3b-c23eb93ffb31",
+    "data": [
+      {
+        "text": "remind me about something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f0fc9e0-c909-4eaf-9368-d3b882937dbd",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c51d203-265a-48c5-aa83-da49c6ca9ce3",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "call dad",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de449612-62b2-4d04-bc51-76307d5a419a",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "watch",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af4d6358-7fa3-483a-be31-e8ec717564fb",
+    "data": [
+      {
+        "text": "remind me about ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in 1minute",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a430a94f-94cb-48d4-bd84-8d8c7b7b9a28",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "visit my family",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Thanksgiving day",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36d5c73c-7deb-4562-bb4e-b9df24ba20d4",
+    "data": [
+      {
+        "text": "remind me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "teacher meeting",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06ecd435-cd5a-41e7-9bd5-df0d728bc739",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "nutrition research",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow at 8am",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1686d4a4-7b96-47bf-b2b9-b748355bd45c",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "every day except Sundays",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fd1da91-89a5-436b-a227-09c07eddeb18",
+    "data": [
+      {
+        "text": "remind about ",
+        "userDefined": false
+      },
+      {
+        "text": "business meeting",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every monday",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "4 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ae6aade-d7b3-4c61-a0e1-59404848e502",
+    "data": [
+      {
+        "text": "remind ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " that ",
+        "userDefined": false
+      },
+      {
+        "text": "I have",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "doctor\u0027s appointment",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79733e7e-fc22-489b-894b-1b5cb6e4d108",
+    "data": [
+      {
+        "text": "set reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "353e94fb-d47d-453b-8557-8152c5638dd7",
+    "data": [
+      {
+        "text": "can you make me a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72a91720-d799-4fd3-bade-7fd6bce2088a",
+    "data": [
+      {
+        "text": "can you please remind me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d73976f-aec7-4756-848d-12c8b0461334",
+    "data": [
+      {
+        "text": "I need to set another reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe71e14c-1d8b-468d-a44d-e5c9c6dada50",
+    "data": [
+      {
+        "text": "remind me at ",
+        "userDefined": false
+      },
+      {
+        "text": "11 o\u0027clock in the morning",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9816b089-65f3-4227-8189-c6904746d905",
+    "data": [
+      {
+        "text": "remind about ",
+        "userDefined": false
+      },
+      {
+        "text": "running",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "6 am on 7 december",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dcf989e-a72b-4a04-8250-150f10cb99f4",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "wake up",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "7 am",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cd80aff-7a07-4b9b-8ce8-b74e0c37b4ef",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df7edbee-8b71-4cec-88ba-66af484d22d6",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "book a parking spot for my Carnival Cruise",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15740df8-6772-440f-91c5-5fcf61f6472c",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "call Jose",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d04d1f1-eb54-4596-99d5-b5e2713ca70f",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "do homework",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "November 11 at 7pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7d46472-12a1-4d55-a7d2-daa21d40294c",
+    "data": [
+      {
+        "text": "can you please remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "take my medication",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every morning",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "7:00",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d18789bd-cdab-48e5-a239-2b829cd06094",
+    "data": [
+      {
+        "text": "remind about ",
+        "userDefined": false
+      },
+      {
+        "text": "party",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "12 pm on Friday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bca0a04-bd05-4970-80c8-b553d28d5726",
+    "data": [
+      {
+        "text": "can you remind me later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06163be5-3754-4042-8985-ce0fec71c273",
+    "data": [
+      {
+        "text": "I need to schedule a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4206843a-2fb9-4af1-aa96-81bdae492c73",
+    "data": [
+      {
+        "text": "set a reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "8 am",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56badd69-b0e1-4ab2-bd03-83233f2d9ca0",
+    "data": [
+      {
+        "text": "set a reminder for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f6605f6-b82e-4212-98ce-c4d8fffba282",
+    "data": [
+      {
+        "text": "remind ",
+        "userDefined": false
+      },
+      {
+        "text": "us",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2af6090d-8329-4014-a5e6-130d5ec980a6",
+    "data": [
+      {
+        "text": "set up a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efd631c6-13af-48bc-89a0-c24a42facb8a",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "call mom",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Christmas",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9856a9c1-90f7-43ed-9a7b-ff8d7dc65f55",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "call my brother",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Veterans day",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0677062a-041f-4d2b-975b-10cf8295c96d",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "noon",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8255977-a69f-4359-b877-0ada6b24554b",
+    "data": [
+      {
+        "text": "new reminder about ",
+        "userDefined": false
+      },
+      {
+        "text": "washing car",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a3da882-c94e-4a43-a5ca-5a22f0bc559a",
+    "data": [
+      {
+        "text": "remind ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "parent/teacher meeting",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d16bd54e-c6e1-4934-9694-37117a262efc",
+    "data": [
+      {
+        "text": "make a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05d20553-0ee8-4ea8-b371-21a5c5f412f7",
+    "data": [
+      {
+        "text": "new reminder please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5df3c02c-8b9e-4088-8ec3-a1a19829eb4a",
+    "data": [
+      {
+        "text": "send me a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc39e63f-b10d-45fd-899d-506028890f47",
+    "data": [
+      {
+        "text": "please make a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d2edc7e-3d30-43bc-ab72-56141e95ecde",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "appointment",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "150077a5-8512-49d8-8dcb-873a762bae9f",
+    "data": [
+      {
+        "text": "set reminder for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1943b72-8e81-4d95-adde-570c903afceb",
+    "data": [
+      {
+        "text": "set new reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb91e748-a814-4abc-82ed-5a28457d47f7",
+    "data": [
+      {
+        "text": "set reminder set reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cccea6e-c9ae-4a69-8dc5-7986a8967e93",
+    "data": [
+      {
+        "text": "remind me about ",
+        "userDefined": false
+      },
+      {
+        "text": "exams",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every Friday",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "7 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ceaf1f2-6771-4d1b-8929-6e2f33b3d3be",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "drink some water",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in 5 minutes",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f20b000-7327-43b3-8106-29896cec4644",
+    "data": [
+      {
+        "text": "set reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f00ebbbb-5ffd-46c9-a75b-aa4b222e4615",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "go running",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "6 AM",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34b0811d-9337-4925-87e6-02eeabe4d9ec",
+    "data": [
+      {
+        "text": "set reminder about ",
+        "userDefined": false
+      },
+      {
+        "text": "dog walking",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " repeat it ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "9 am",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fe0fcd8-d001-447a-9dff-db667e71a033",
+    "data": [
+      {
+        "text": "add a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcc47cea-0722-4342-b69c-65f9047947c7",
+    "data": [
+      {
+        "text": "add another reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb5c062b-a487-4475-b34d-e82d3e3753fc",
+    "data": [
+      {
+        "text": "can I make a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56df5fe2-6422-4c92-9581-a684a587d6a5",
+    "data": [
+      {
+        "text": "can you set reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9eddc1a-1dd1-43f8-b20b-ffff321f4d85",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "on Thursday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5acac8a0-2c5f-4ab1-a4fe-0f9adcf948b4",
+    "data": [
+      {
+        "text": "reminder ",
+        "userDefined": false
+      },
+      {
+        "text": "for this evening",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e97b0610-ed8e-45c4-aaf1-4a4fe9336cc7",
+    "data": [
+      {
+        "text": "set reminder ",
+        "userDefined": false
+      },
+      {
+        "text": "for 2 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "430f4fc4-8d06-450d-b620-6366047a5911",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "exercise",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84b08b81-95af-40e9-b2d1-8686e747da3e",
+    "data": [
+      {
+        "text": "remind me once about ",
+        "userDefined": false
+      },
+      {
+        "text": "running",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81a7f019-9087-4df9-8529-d680497ad5de",
+    "data": [
+      {
+        "text": "set reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "25th November",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4cbc31e-5719-489a-a988-51a1bc391e2f",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "wash the car",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "743394af-6b76-4c51-8af0-831f4c6e22f6",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "10:30 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "close the restaurant",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "953f49a7-d202-47e7-bf33-82364c6bb514",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "everyday",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "read a book",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "6PM",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "edda4a6a-eef1-4fca-8d5a-5309ed15d136",
+    "data": [
+      {
+        "text": "remind ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "holidays one day before",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "667497a8-f3b0-4dbf-a774-48211fa5b3e7",
+    "data": [
+      {
+        "text": "remind me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f19b687f-db6f-4bb0-b6d9-f5c71cd010ea",
+    "data": [
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " not let me forget to ",
+        "userDefined": false
+      },
+      {
+        "text": "water flowers",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "7 am tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f05b5775-bf0b-4a32-b906-bdfeed65fa4e",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "feed my cat",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2f0331a-20a8-4382-aaf7-6562f7588d4d",
+    "data": [
+      {
+        "text": "schedule a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee2f8ac3-61a3-48eb-a147-275b3eddd7fb",
+    "data": [
+      {
+        "text": "can you set a reminder for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b2a9529-18b4-4e07-bbcf-82dfad14b9e6",
+    "data": [
+      {
+        "text": "create a reminder for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7358dd7-bfdb-4742-a67a-13445b239ebf",
+    "data": [
+      {
+        "text": "remind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c3d1c9c-0a62-4515-91c1-89a80ba21017",
+    "data": [
+      {
+        "text": "please set reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63fbef38-c88c-4444-8b34-293bf9591b8f",
+    "data": [
+      {
+        "text": "please remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "call",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed88f7ff-b85e-4d50-b061-c60ef89235f2",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "buy milk",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuesday at 8 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c26f8a26-91dc-4707-9fe7-d3bbe1119f5d",
+    "data": [
+      {
+        "text": "remind me to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0d88b9c-208f-44f5-b342-bae978db6a72",
+    "data": [
+      {
+        "text": "reminder set",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f4bf758-602b-4fe3-b059-69f249aed276",
+    "data": [
+      {
+        "text": "reminder ",
+        "userDefined": false
+      },
+      {
+        "text": "for today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5036f59e-ddec-4f85-be0c-d8b8725651f0",
+    "data": [
+      {
+        "text": "set the reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d537fa4e-ad08-41cc-87dc-cf91942e16f8",
+    "data": [
+      {
+        "text": "set reminder to ",
+        "userDefined": false
+      },
+      {
+        "text": "5 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e78dad1a-4b6a-460e-9470-850c38d1b52c",
+    "data": [
+      {
+        "text": "Send me a reminder to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay the cable bill",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "March 3",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "638026b7-2041-45f7-9fbe-6a90fd8e5a4f",
+    "data": [
+      {
+        "text": "remind me about ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "15.23",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d59e0efc-9cb8-4339-981a-808b424a975f",
+    "data": [
+      {
+        "text": "add reminder with title ",
+        "userDefined": false
+      },
+      {
+        "text": "washing car",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0032834-ac59-45e4-8288-f4f29af6c86c",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "buy shoes in Paris",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a567d23f-6a4e-44ec-996d-9e903ecc0178",
+    "data": [
+      {
+        "text": "I would like a reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21e0ea83-8254-4a63-8167-0ec22608d695",
+    "data": [
+      {
+        "text": "could you remind me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4e6756f-8dc0-437c-b1bf-337ec841cee7",
+    "data": [
+      {
+        "text": "can you set reminders for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1a149d7-ed01-4cd7-9295-ea5bcf024914",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "go to the doctor",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70e9ffda-9ab4-4523-bdee-83ba2cdfec7e",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow at 9 am",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2394c39f-a0a1-48fc-b1db-92b2b6be37c3",
+    "data": [
+      {
+        "text": "set up reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc93a15a-d2ac-4f2d-9f64-e1f1ba80903a",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "vitamin D",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "7 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93c310d3-2036-4ac2-aec4-6129979078fc",
+    "data": [
+      {
+        "text": "add reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4620cc5-8864-4173-8c72-6aef4ea8c99a",
+    "data": [
+      {
+        "text": "remind me to ",
+        "userDefined": false
+      },
+      {
+        "text": "wash the car",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in 4 hours",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

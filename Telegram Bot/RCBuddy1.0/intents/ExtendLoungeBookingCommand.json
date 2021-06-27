@@ -1,0 +1,85 @@
+{
+  "id": "7f2a4edf-5319-4c0c-bf9f-17fc4a1821ad",
+  "name": "ExtendLoungeBookingCommand",
+  "auto": true,
+  "contexts": [
+    "Cinnamon4thNotFree"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Cinnamon4thNotFree",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9e4dcad5-8c73-479b-957e-73f98d7e47a4",
+          "name": "star",
+          "required": false,
+          "dataType": "@star",
+          "value": "$star",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "061b1239-6dbe-4755-9bca-8a98a83eda44",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Please remember to check out when you leave the lounge by using /loungecheckout!",
+          "replies": [
+            "/loungecheckout"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure thing! Your reservation for the fourth floor lounge has been extended for another 5 hours. To continue the reservation, please use the /extendloungebooking again. Although by then you really should go to sleep. Or eat."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

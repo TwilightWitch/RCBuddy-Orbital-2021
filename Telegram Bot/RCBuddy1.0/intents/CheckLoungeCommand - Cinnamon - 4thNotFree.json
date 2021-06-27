@@ -1,0 +1,100 @@
+{
+  "id": "7e35afc0-fac4-4fb9-8faa-91e54ad0bb93",
+  "name": "CheckLoungeCommand - Cinnamon - 4thNotFree",
+  "auto": true,
+  "contexts": [
+    "CheckLoungeCommand-Cinnamon",
+    "Cinnamon4thFree"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Cinnamon4thNotFree",
+          "lifespan": 5
+        },
+        {
+          "name": "CheckLoungeCommand-Cinnamon",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "26b5658d-685a-46af-a883-4971eac7022b",
+          "name": "star",
+          "required": false,
+          "dataType": "@star",
+          "value": "$star",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6837c101-2b8b-45bc-b444-023c01f289b7",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f6a90e6b-8452-407d-b3d5-53f8b1a17906",
+          "name": "map-sort",
+          "required": false,
+          "dataType": "@map-sort",
+          "value": "$map-sort",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, it\u0027s not free now!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like to use the lounge on the 5th floor instead? It\u0027s currently available."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "e51a444a-cc4c-4714-8a22-cb838daa70fe",
+  "parentId": "60dfd94b-4c07-4f2c-b94e-84496bc3eff6",
+  "rootParentId": "60dfd94b-4c07-4f2c-b94e-84496bc3eff6",
+  "name": "MenuCommand - yes",
+  "auto": true,
+  "contexts": [
+    "MenuCommand-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MenuCommand.MenuCommand-yes",
+      "affectedContexts": [
+        {
+          "name": "MenuCommand-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! Which week\u0027s menu would you like to look at?",
+            "Okay, which week would you like to see?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

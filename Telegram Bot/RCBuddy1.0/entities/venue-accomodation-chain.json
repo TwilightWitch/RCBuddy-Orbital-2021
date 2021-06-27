@@ -1,0 +1,9 @@
+{
+  "id": "b9d063dd-cbb2-4414-8355-2b7f8ee17f26",
+  "name": "venue-accomodation-chain",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

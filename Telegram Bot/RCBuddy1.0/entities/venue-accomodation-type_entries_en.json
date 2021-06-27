@@ -1,0 +1,62 @@
+[
+  {
+    "value": "apartment",
+    "synonyms": [
+      "apartment",
+      "apartments"
+    ]
+  },
+  {
+    "value": "cottage",
+    "synonyms": [
+      "chalet",
+      "chalets",
+      "cottage",
+      "cottages"
+    ]
+  },
+  {
+    "value": "guesthouse",
+    "synonyms": [
+      "guesthouse",
+      "guesthouses"
+    ]
+  },
+  {
+    "value": "hostel",
+    "synonyms": [
+      "hostel",
+      "hostels"
+    ]
+  },
+  {
+    "value": "hotel",
+    "synonyms": [
+      "hotel",
+      "hotels"
+    ]
+  },
+  {
+    "value": "motel",
+    "synonyms": [
+      "motel",
+      "motels"
+    ]
+  },
+  {
+    "value": "resort",
+    "synonyms": [
+      "beach resort",
+      "beach resorts",
+      "resort",
+      "resorts"
+    ]
+  },
+  {
+    "value": "ski resort",
+    "synonyms": [
+      "ski resort",
+      "ski resorts"
+    ]
+  }
+]

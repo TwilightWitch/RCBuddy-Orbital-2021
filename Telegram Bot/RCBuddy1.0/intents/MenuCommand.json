@@ -1,0 +1,105 @@
+{
+  "id": "60dfd94b-4c07-4f2c-b94e-84496bc3eff6",
+  "name": "MenuCommand",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "MenuCommand-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "72456a3e-39fd-4115-8710-8dad9ef392cd",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b3a1156c-04e4-49d6-bc4c-38b9e3446303",
+          "name": "venue-accomodation-type",
+          "required": false,
+          "dataType": "@venue-accomodation-type",
+          "value": "$venue-accomodation-type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6e0b57c1-1813-462d-a179-7fb4c68c4f10",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here\u0027s the link to all of the Dining Hall menus:\nhttps://uci.nus.edu.sg/ohs/current-residents/students/daily-menu-2/\n\nDo check out the RC Dining Bot, @rc_dining_bot for daily menu notifications!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Would you like to see the menu for a particular week?",
+          "replies": [
+            "Yes"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

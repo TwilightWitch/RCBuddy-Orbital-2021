@@ -1,0 +1,28 @@
+[
+  {
+    "id": "8be1e399-4e49-44b1-a661-d21bda1199dc",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd0cd88e-b343-4c1b-93e0-cc697e2fa79e",
+    "data": [
+      {
+        "text": "/help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

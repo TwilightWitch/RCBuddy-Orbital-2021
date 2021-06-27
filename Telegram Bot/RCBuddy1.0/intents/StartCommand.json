@@ -1,0 +1,40 @@
+{
+  "id": "7628038d-95ee-4422-9d66-1191c4736f54",
+  "name": "StartCommand",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello, I\u0027m RCBuddy, your virtual Residential College assistant! What can I help you with today? Use /help to see the commands I can interact with!",
+            "Hi there! I\u0027m RCBuddy, your virtual Residential College assistant! Do you need anything? Use /help to see the commands I can interact with!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "TELEGRAM_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
