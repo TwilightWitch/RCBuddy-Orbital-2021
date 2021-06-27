@@ -1,7 +1,7 @@
 # RCBuddy-Orbital-2021
 Team Name: RCBuddy
 
-Team Members: Xiao Yanzi, Thian Jiawen
+Team Members: Thian Jiawen, Xiao Yanzi
 
 Proposed Level of Achievement: Apollo 11 
 
