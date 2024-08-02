@@ -1,9 +1,9 @@
 # RCBuddy-Orbital-2021
 Team Name: RCBuddy
 
-Team Members: Thian Jiawen, Xiao Yanzi
+Team Members: Thian Jiawen
 
-Proposed Level of Achievement: Apollo 11 
+Level of Achievement: Gemini
 
 Motivation 
 If you are a student staying in NUS’ Residential Colleges (RCs), we are sure that you have had the same experience as us:
